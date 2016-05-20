@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/workspace/integracion/EjemploClases2/src/wsdl/globalweather.asmx" uri="src/conf/xml-resources/web-services/NewWebServiceFromWSDL/wsdl/globalweather.asmx.wsdl"/>
+    <system systemId="file:/home/pedro/Desktop/EjemploClases2/src/wsdl/globalweather.asmx" uri="src/conf/xml-resources/web-services/GlobalWeatherFromWSDL/wsdl/globalweather.asmx.wsdl"/>
+    <system systemId="file:/home/pedro/Desktop/EjemploClases2/src/wsdl/airport.asmx" uri="src/conf/xml-resources/web-services/AirportFromWSDL/wsdl/airport.asmx.wsdl"/>
+</catalog>
